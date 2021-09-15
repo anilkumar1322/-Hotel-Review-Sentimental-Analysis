@@ -1,0 +1,2 @@
+# -Hotel-Review-Sentimental-Analysis
+Primary Goal: Analyzing the customer review is positive or negative   Solution: Hotel reviews data collected with the rating, and converted into up to 3 rating as negative &amp; 4,5 as positive reviews. applied text processing techniques tokenization, lematization,stop words. By the tf-idf converted the text into vectores and SVC algorithm is used to build the model.   Result: The Best accuracy is 95% and the F1 score is [0.957    0.958] 
